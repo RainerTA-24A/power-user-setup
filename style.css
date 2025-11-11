@@ -1,0 +1,37 @@
+body {
+    min-height: 100vh;
+    background-color: rgb(180, 178, 178);
+    color: rgb(96, 96, 96);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1;
+}
+header {
+    padding: 4px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(63, 63, 63);
+    background-color: rgb(216, 169, 112);
+    .pp{
+        font-size: 17px;
+    }
+}
+
+.link-card:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15); 
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 0;
+    font-size: 0.9em;
+    color: azure;
+    background-color: rgb(154, 151, 151);
+}
