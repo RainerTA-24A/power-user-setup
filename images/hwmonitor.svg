@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="1024px"
+   height="1024px"
+   viewBox="0 0 1024 1024"
+   enable-background="new 0 0 1024 1024"
+   xml:space="preserve"
+   sodipodi:docname="cb0e46aa-4f0e-4cad-b3b3-a12e48112b6c.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="140.0825"
+   y1="652.084"
+   x2="1164.082"
+   y2="652.084"
+   gradientTransform="matrix(0 1 -1 0 1164.084 -140.0825)">
+	<stop
+   offset="0"
+   style="stop-color:#B90009"
+   id="stop1" />
+	<stop
+   offset="1"
+   style="stop-color:#870006"
+   id="stop2" />
+</linearGradient>
+<rect
+   fill="url(#SVGID_1_)"
+   width="1024"
+   height="1024"
+   id="rect2" />
+<path
+   fill="#FFFFFF"
+   d="M575.771,101.887l-281.998,487.08h153.814v333.267l281.996-487.08H575.771V101.887z"
+   id="path2" />
+</svg>
